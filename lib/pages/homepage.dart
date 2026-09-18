@@ -2,11 +2,6 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:blog_app_ats/pages/profilepage.dart';
-import 'package:blog_app_ats/pages/savepage.dart';
-import 'package:blog_app_ats/pages/searchpage.dart';
-import 'package:blog_app_ats/pages/detailpage.dart';
-import 'package:blog_app_ats/pages/createpage.dart';
 import 'package:blog_app_ats/api/api.services.dart';
 
 class homePage extends StatefulWidget {
