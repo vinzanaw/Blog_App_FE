@@ -1,1 +1,0 @@
-Blogify FrontEnd
